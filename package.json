@@ -2,7 +2,7 @@
     "name": "json-locale-autocomplete",
     "displayName": "json-locale-autocomplete",
     "description": "Autocomplete using keys from translation files (eg: react-intl)",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "tomsarduy",
     "engines": {
         "vscode": "^1.23.0"
